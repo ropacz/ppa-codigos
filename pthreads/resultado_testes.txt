@@ -1,0 +1,484 @@
+Resultados dos testes:
+Executando testes SEQUENCIAIS...
+Tamanho da matriz: 100 x 100
+Tempo real: 0.0028 segundos
+Tamanho da matriz: 200 x 200
+Tempo real: 0.0108 segundos
+Tamanho da matriz: 300 x 300
+Tempo real: 0.0301 segundos
+Tamanho da matriz: 400 x 400
+Tempo real: 0.0728 segundos
+Tamanho da matriz: 500 x 500
+Tempo real: 0.1378 segundos
+Tamanho da matriz: 600 x 600
+Tempo real: 0.2370 segundos
+Tamanho da matriz: 700 x 700
+Tempo real: 0.3758 segundos
+Tamanho da matriz: 800 x 800
+Tempo real: 0.7644 segundos
+Tamanho da matriz: 900 x 900
+Tempo real: 1.1929 segundos
+Tamanho da matriz: 1000 x 1000
+Tempo real: 1.8714 segundos
+Tamanho da matriz: 1100 x 1100
+Tempo real: 6.5076 segundos
+Tamanho da matriz: 1200 x 1200
+Tempo real: 11.1481 segundos
+Tamanho da matriz: 1300 x 1300
+Tempo real: 14.5857 segundos
+Tamanho da matriz: 1400 x 1400
+Tempo real: 19.5271 segundos
+Tamanho da matriz: 1500 x 1500
+Tempo real: 23.0190 segundos
+
+Executando testes PARALELOS...
+Tamanho da matriz: 100 x 100 com 1 threads
+Tempo real: 0.0033 segundos
+Speedup: 0.8476
+Eficiência: 0.8476
+
+Tamanho da matriz: 100 x 100 com 2 threads
+Tempo real: 0.0028 segundos
+Speedup: 1.0147
+Eficiência: 0.5073
+
+Tamanho da matriz: 100 x 100 com 4 threads
+Tempo real: 0.0026 segundos
+Speedup: 1.0795
+Eficiência: 0.2698
+
+Tamanho da matriz: 100 x 100 com 8 threads
+Tempo real: 0.0026 segundos
+Speedup: 1.0956
+Eficiência: 0.1369
+
+Tamanho da matriz: 100 x 100 com 16 threads
+Tempo real: 0.0029 segundos
+Speedup: 0.9740
+Eficiência: 0.0608
+
+Tamanho da matriz: 100 x 100 com 32 threads
+Tempo real: 0.0033 segundos
+Speedup: 0.8522
+Eficiência: 0.0266
+
+Tamanho da matriz: 200 x 200 com 1 threads
+Tempo real: 0.0119 segundos
+Speedup: 0.9072
+Eficiência: 0.9072
+
+Tamanho da matriz: 200 x 200 com 2 threads
+Tempo real: 0.0082 segundos
+Speedup: 1.3174
+Eficiência: 0.6587
+
+Tamanho da matriz: 200 x 200 com 4 threads
+Tempo real: 0.0063 segundos
+Speedup: 1.6982
+Eficiência: 0.4245
+
+Tamanho da matriz: 200 x 200 com 8 threads
+Tempo real: 0.0061 segundos
+Speedup: 1.7497
+Eficiência: 0.2187
+
+Tamanho da matriz: 200 x 200 com 16 threads
+Tempo real: 0.0065 segundos
+Speedup: 1.6662
+Eficiência: 0.1041
+
+Tamanho da matriz: 200 x 200 com 32 threads
+Tempo real: 0.0068 segundos
+Speedup: 1.5747
+Eficiência: 0.0492
+
+Tamanho da matriz: 300 x 300 com 1 threads
+Tempo real: 0.0330 segundos
+Speedup: 0.9099
+Eficiência: 0.9099
+
+Tamanho da matriz: 300 x 300 com 2 threads
+Tempo real: 0.0205 segundos
+Speedup: 1.4687
+Eficiência: 0.7343
+
+Tamanho da matriz: 300 x 300 com 4 threads
+Tempo real: 0.0142 segundos
+Speedup: 2.1220
+Eficiência: 0.5305
+
+Tamanho da matriz: 300 x 300 com 8 threads
+Tempo real: 0.0144 segundos
+Speedup: 2.0846
+Eficiência: 0.2605
+
+Tamanho da matriz: 300 x 300 com 16 threads
+Tempo real: 0.0147 segundos
+Speedup: 2.0510
+Eficiência: 0.1281
+
+Tamanho da matriz: 300 x 300 com 32 threads
+Tempo real: 0.0151 segundos
+Speedup: 1.9875
+Eficiência: 0.0621
+
+Tamanho da matriz: 400 x 400 com 1 threads
+Tempo real: 0.0805 segundos
+Speedup: 0.9036
+Eficiência: 0.9036
+
+Tamanho da matriz: 400 x 400 com 2 threads
+Tempo real: 0.0464 segundos
+Speedup: 1.5671
+Eficiência: 0.7835
+
+Tamanho da matriz: 400 x 400 com 4 threads
+Tempo real: 0.0300 segundos
+Speedup: 2.4232
+Eficiência: 0.6058
+
+Tamanho da matriz: 400 x 400 com 8 threads
+Tempo real: 0.0285 segundos
+Speedup: 2.5496
+Eficiência: 0.3187
+
+Tamanho da matriz: 400 x 400 com 16 threads
+Tempo real: 0.0293 segundos
+Speedup: 2.4830
+Eficiência: 0.1551
+
+Tamanho da matriz: 400 x 400 com 32 threads
+Tempo real: 0.0294 segundos
+Speedup: 2.4780
+Eficiência: 0.0774
+
+Tamanho da matriz: 500 x 500 com 1 threads
+Tempo real: 0.1491 segundos
+Speedup: 0.9244
+Eficiência: 0.9244
+
+Tamanho da matriz: 500 x 500 com 2 threads
+Tempo real: 0.0851 segundos
+Speedup: 1.6190
+Eficiência: 0.8095
+
+Tamanho da matriz: 500 x 500 com 4 threads
+Tempo real: 0.0818 segundos
+Speedup: 1.6841
+Eficiência: 0.4210
+
+Tamanho da matriz: 500 x 500 com 8 threads
+Tempo real: 0.0568 segundos
+Speedup: 2.4252
+Eficiência: 0.3031
+
+Tamanho da matriz: 500 x 500 com 16 threads
+Tempo real: 0.0534 segundos
+Speedup: 2.5793
+Eficiência: 0.1612
+
+Tamanho da matriz: 500 x 500 com 32 threads
+Tempo real: 0.0536 segundos
+Speedup: 2.5701
+Eficiência: 0.0803
+
+Tamanho da matriz: 600 x 600 com 1 threads
+Tempo real: 0.2560 segundos
+Speedup: 0.9259
+Eficiência: 0.9259
+
+Tamanho da matriz: 600 x 600 com 2 threads
+Tempo real: 0.1410 segundos
+Speedup: 1.6811
+Eficiência: 0.8405
+
+Tamanho da matriz: 600 x 600 com 4 threads
+Tempo real: 0.0858 segundos
+Speedup: 2.7616
+Eficiência: 0.6904
+
+Tamanho da matriz: 600 x 600 com 8 threads
+Tempo real: 0.1216 segundos
+Speedup: 1.9490
+Eficiência: 0.2436
+
+Tamanho da matriz: 600 x 600 com 16 threads
+Tempo real: 0.1225 segundos
+Speedup: 1.9350
+Eficiência: 0.1209
+
+Tamanho da matriz: 600 x 600 com 32 threads
+Tempo real: 0.1229 segundos
+Speedup: 1.9290
+Eficiência: 0.0602
+
+Tamanho da matriz: 700 x 700 com 1 threads
+Tempo real: 0.4067 segundos
+Speedup: 0.9238
+Eficiência: 0.9238
+
+Tamanho da matriz: 700 x 700 com 2 threads
+Tempo real: 0.2154 segundos
+Speedup: 1.7441
+Eficiência: 0.8720
+
+Tamanho da matriz: 700 x 700 com 4 threads
+Tempo real: 0.1308 segundos
+Speedup: 2.8721
+Eficiência: 0.7180
+
+Tamanho da matriz: 700 x 700 com 8 threads
+Tempo real: 0.4718 segundos
+Speedup: 0.7963
+Eficiência: 0.0995
+
+Tamanho da matriz: 700 x 700 com 16 threads
+Tempo real: 0.3411 segundos
+Speedup: 1.1016
+Eficiência: 0.0688
+
+Tamanho da matriz: 700 x 700 com 32 threads
+Tempo real: 0.3826 segundos
+Speedup: 0.9820
+Eficiência: 0.0306
+
+Tamanho da matriz: 800 x 800 com 1 threads
+Tempo real: 1.3594 segundos
+Speedup: 0.5622
+Eficiência: 0.5622
+
+Tamanho da matriz: 800 x 800 com 2 threads
+Tempo real: 0.4000 segundos
+Speedup: 1.9107
+Eficiência: 0.9553
+
+Tamanho da matriz: 800 x 800 com 4 threads
+Tempo real: 0.2240 segundos
+Speedup: 3.4125
+Eficiência: 0.8531
+
+Tamanho da matriz: 800 x 800 com 8 threads
+Tempo real: 0.7550 segundos
+Speedup: 1.0124
+Eficiência: 0.1265
+
+Tamanho da matriz: 800 x 800 com 16 threads
+Tempo real: 0.7484 segundos
+Speedup: 1.0213
+Eficiência: 0.0638
+
+Tamanho da matriz: 800 x 800 com 32 threads
+Tempo real: 0.7972 segundos
+Speedup: 0.9588
+Eficiência: 0.0299
+
+Tamanho da matriz: 900 x 900 com 1 threads
+Tempo real: 1.2049 segundos
+Speedup: 0.9900
+Eficiência: 0.9900
+
+Tamanho da matriz: 900 x 900 com 2 threads
+Tempo real: 0.6363 segundos
+Speedup: 1.8748
+Eficiência: 0.9374
+
+Tamanho da matriz: 900 x 900 com 4 threads
+Tempo real: 0.3678 segundos
+Speedup: 3.2428
+Eficiência: 0.8107
+
+Tamanho da matriz: 900 x 900 com 8 threads
+Tempo real: 1.2075 segundos
+Speedup: 0.9878
+Eficiência: 0.1234
+
+Tamanho da matriz: 900 x 900 com 16 threads
+Tempo real: 1.2023 segundos
+Speedup: 0.9921
+Eficiência: 0.0620
+
+Tamanho da matriz: 900 x 900 com 32 threads
+Tempo real: 1.1982 segundos
+Speedup: 0.9955
+Eficiência: 0.0311
+
+Tamanho da matriz: 1000 x 1000 com 1 threads
+Tempo real: 2.3488 segundos
+Speedup: 0.7967
+Eficiência: 0.7967
+
+Tamanho da matriz: 1000 x 1000 com 2 threads
+Tempo real: 1.0088 segundos
+Speedup: 1.8550
+Eficiência: 0.9275
+
+Tamanho da matriz: 1000 x 1000 com 4 threads
+Tempo real: 0.5553 segundos
+Speedup: 3.3698
+Eficiência: 0.8424
+
+Tamanho da matriz: 1000 x 1000 com 8 threads
+Tempo real: 1.6819 segundos
+Speedup: 1.1126
+Eficiência: 0.1390
+
+Tamanho da matriz: 1000 x 1000 com 16 threads
+Tempo real: 1.5343 segundos
+Speedup: 1.2197
+Eficiência: 0.0762
+
+Tamanho da matriz: 1000 x 1000 com 32 threads
+Tempo real: 1.6888 segundos
+Speedup: 1.1081
+Eficiência: 0.0346
+
+Tamanho da matriz: 1100 x 1100 com 1 threads
+Tempo real: 6.3465 segundos
+Speedup: 1.0253
+Eficiência: 1.0253
+
+Tamanho da matriz: 1100 x 1100 com 2 threads
+Tempo real: 3.2342 segundos
+Speedup: 2.0121
+Eficiência: 1.0060
+
+Tamanho da matriz: 1100 x 1100 com 4 threads
+Tempo real: 1.6796 segundos
+Speedup: 3.8744
+Eficiência: 0.9686
+
+Tamanho da matriz: 1100 x 1100 com 8 threads
+Tempo real: 2.2616 segundos
+Speedup: 2.8774
+Eficiência: 0.3596
+
+Tamanho da matriz: 1100 x 1100 com 16 threads
+Tempo real: 2.2941 segundos
+Speedup: 2.8366
+Eficiência: 0.1772
+
+Tamanho da matriz: 1100 x 1100 com 32 threads
+Tempo real: 2.2923 segundos
+Speedup: 2.8388
+Eficiência: 0.0887
+
+Tamanho da matriz: 1200 x 1200 com 1 threads
+Tempo real: 11.0535 segundos
+Speedup: 1.0085
+Eficiência: 1.0085
+
+Tamanho da matriz: 1200 x 1200 com 2 threads
+Tempo real: 5.5668 segundos
+Speedup: 2.0026
+Eficiência: 1.0013
+
+Tamanho da matriz: 1200 x 1200 com 4 threads
+Tempo real: 2.9361 segundos
+Speedup: 3.7969
+Eficiência: 0.9492
+
+Tamanho da matriz: 1200 x 1200 com 8 threads
+Tempo real: 2.9828 segundos
+Speedup: 3.7374
+Eficiência: 0.4671
+
+Tamanho da matriz: 1200 x 1200 com 16 threads
+Tempo real: 3.0643 segundos
+Speedup: 3.6380
+Eficiência: 0.2273
+
+Tamanho da matriz: 1200 x 1200 com 32 threads
+Tempo real: 3.0891 segundos
+Speedup: 3.6087
+Eficiência: 0.1127
+
+Tamanho da matriz: 1300 x 1300 com 1 threads
+Tempo real: 14.5829 segundos
+Speedup: 1.0001
+Eficiência: 1.0001
+
+Tamanho da matriz: 1300 x 1300 com 2 threads
+Tempo real: 7.3066 segundos
+Speedup: 1.9962
+Eficiência: 0.9981
+
+Tamanho da matriz: 1300 x 1300 com 4 threads
+Tempo real: 3.8888 segundos
+Speedup: 3.7506
+Eficiência: 0.9376
+
+Tamanho da matriz: 1300 x 1300 com 8 threads
+Tempo real: 3.8145 segundos
+Speedup: 3.8236
+Eficiência: 0.4779
+
+Tamanho da matriz: 1300 x 1300 com 16 threads
+Tempo real: 3.9769 segundos
+Speedup: 3.6675
+Eficiência: 0.2292
+
+Tamanho da matriz: 1300 x 1300 com 32 threads
+Tempo real: 4.0225 segundos
+Speedup: 3.6259
+Eficiência: 0.1133
+
+Tamanho da matriz: 1400 x 1400 com 1 threads
+Tempo real: 19.1979 segundos
+Speedup: 1.0171
+Eficiência: 1.0171
+
+Tamanho da matriz: 1400 x 1400 com 2 threads
+Tempo real: 9.6477 segundos
+Speedup: 2.0240
+Eficiência: 1.0120
+
+Tamanho da matriz: 1400 x 1400 com 4 threads
+Tempo real: 5.0918 segundos
+Speedup: 3.8350
+Eficiência: 0.9587
+
+Tamanho da matriz: 1400 x 1400 com 8 threads
+Tempo real: 4.9320 segundos
+Speedup: 3.9592
+Eficiência: 0.4949
+
+Tamanho da matriz: 1400 x 1400 com 16 threads
+Tempo real: 5.0328 segundos
+Speedup: 3.8799
+Eficiência: 0.2424
+
+Tamanho da matriz: 1400 x 1400 com 32 threads
+Tempo real: 5.0297 segundos
+Speedup: 3.8823
+Eficiência: 0.1213
+
+Tamanho da matriz: 1500 x 1500 com 1 threads
+Tempo real: 22.7917 segundos
+Speedup: 1.0099
+Eficiência: 1.0099
+
+Tamanho da matriz: 1500 x 1500 com 2 threads
+Tempo real: 11.5585 segundos
+Speedup: 1.9915
+Eficiência: 0.9957
+
+Tamanho da matriz: 1500 x 1500 com 4 threads
+Tempo real: 6.1608 segundos
+Speedup: 3.7363
+Eficiência: 0.9340
+
+Tamanho da matriz: 1500 x 1500 com 8 threads
+Tempo real: 6.1566 segundos
+Speedup: 3.7389
+Eficiência: 0.4673
+
+Tamanho da matriz: 1500 x 1500 com 16 threads
+Tempo real: 6.3234 segundos
+Speedup: 3.6402
+Eficiência: 0.2275
+
+Tamanho da matriz: 1500 x 1500 com 32 threads
+Tempo real: 6.4055 segundos
+Speedup: 3.5936
+Eficiência: 0.1123
+
